@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jongzzz</h1>
+<h1 align="center">Hi 👋 JongHwan Yeom (염종환)</h1>
 <h3 align="center">A passionate Data Engineer from Korea</h3>
 
 - 📫 How to reach me **duawhdghks13@naver.com**
