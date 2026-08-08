@@ -61,11 +61,10 @@
 
 ---
 
-## 🏆 Awards & Publications (주상 및 논문)
-* 📝 **Paper Publication (공동 2저자):** "Fairness-Aware Clinical AI for Emergency Departments: Development, Mitigation Strategies, and Validation" (2026.01)
+## 🏆 Awards & Publications (대회 참여 및 수상 내역)
 * 🥇 **Grand Prize (대상):** 2026 Southern California Korean American SW Pioneer Hackathon
 * 🥇 **Grand Prize (대상):** 2025 HIRA(건강보험심사평가원) 보건의료빅데이터 경진대회
-* 🏅 **Participation:** 2024 국민체육진흥공단 공공데이터 활용 경진대회 앱 개발 (2024.11)
+* 🏃 **Participation(참가):** 2024 국민체육진흥공단 공공데이터 활용 경진대회 앱 개발 (2024.11)
 
 ---
 
