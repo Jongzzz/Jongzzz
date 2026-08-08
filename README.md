@@ -71,7 +71,7 @@
 ## 💻 Projects (주요 개발 경험)
 복잡한 데이터를 가공하고 예측 모델을 구축한 핵심 프로젝트입니다.
 
-**[Data Engineering/ML] HALO: 시공간 위험도 예측 기반 안전 보행 내비게이션 (2026.07) - 🏆 USC 해커톤 대상**
+**[Data Engineering/ML] HALO: 시공간 위험도 예측 기반 안전 보행 내비게이션 (2026.07) - 🏆 2026 Southern California Korean American SW Pioneer Hackathon 대상**
 * **Role:** ML Data Engineer
 * **Description:** 5종의 이질적 공공 데이터를 19.5만 개의 도로 세그먼트로 공간 병합 및 전처리 수행. 미래 데이터 참조를 막는 '타겟 누수 방지 로직'을 설계하여 6,250만 행 규모의 시공간 데이터 학습 패널 구축.
 
@@ -79,7 +79,7 @@
 * **Role:** Tech Lead & Data Engineer
 * **Description:** MIMIC 임상 데이터를 활용하여 응급실 환자 우선순위를 분류하는 예측 모델 구축. 클래스 불균형 완화 및 Optuna 최적화를 수행하고, SHAP을 활용하여 의료진에게 AI의 판단 근거를 시각적으로 제공하는 웹 대시보드 개발.
 
-**[Data Analysis] HIRA 의료 빅데이터 기반 정신질환 지원 정책 제안 (2025.08) - 🏆 심평원 공모전 대상**
+**[Data Analysis] HIRA 의료 빅데이터 기반 정신질환 지원 정책 제안 (2025.08) - 🏆 HIRA 보건의료빅데이터 경진대회 대상**
 * **Role:** Data Analyst
 * **Description:** 건강보험공단 진료 데이터를 기반으로 탐색적 분석 및 연관 규칙 알고리즘 적용. 정신질환 환자의 질환 연관성 및 의료비 구조를 분석하여 실효성 있는 맞춤형 보건 의료 정책(금전/비금전적 지원) 기획.
 
