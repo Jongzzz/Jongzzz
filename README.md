@@ -43,7 +43,7 @@
 ---
 
 ## 🎓 Education & Certifications
-* **한림대학교 (Hallym University)** | 춘천, 한국
+* **한림대학교 (Hallym University)** | 춘천
   * AI의료융합전공 주전공, 빅데이터 복수전공 (2021.02 - 현재)
   * 학점: 4.24 / 4.5 (전공: 4.27 / 4.5)
 * **Licenses & Certifications:**
