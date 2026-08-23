@@ -20,7 +20,7 @@
 대용량 정형/비정형 데이터 정제부터 머신러닝 예측 모델링, 공간 데이터 분석까지 데이터 파이프라인 전 과정을 주도하는 Data Engineer입니다. 6,250만 행 규모의 복잡한 데이터를 다루고 알고리즘의 편향(Fairness)을 검증한 분석 역량을 바탕으로, 데이터 기반의 명확한 의사결정과 비즈니스 인사이트를 도출합니다.
 
 * **Domain Interest:** Data Engineering, Machine Learning, Healthcare AI, Spatial-Temporal Analysis
-* **Contact:** [본인이메일@gmail.com](mailto:yeomjh926@gmail.com)
+* **Contact:** [yeomjh926@gmail.com](mailto:yeomjh926@gmail.com)
 
 ---
 
