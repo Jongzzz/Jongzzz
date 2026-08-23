@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=본인깃허브아이디&color=blue" alt="Profile Views" />
 </div>
 
-<h1 align="center">👋 Yeom Jong-hwan (염종환)</h1>
+<h1 align="center"> Yeom Jong-hwan (염종환)</h1>
 
 <h3 align="center">대규모 데이터 처리부터 ML 파이프라인 최적화까지 구축하는 Data Engineer</h3>
 <h4 align="center">한림대학교 AI의료융합전공 주전공 / 빅데이터 복수전공</h4>
@@ -20,7 +20,7 @@
 대용량 정형/비정형 데이터 정제부터 머신러닝 예측 모델링, 공간 데이터 분석까지 데이터 파이프라인 전 과정을 주도하는 Data Engineer입니다. 6,250만 행 규모의 복잡한 데이터를 다루고 알고리즘의 편향(Fairness)을 검증한 분석 역량을 바탕으로, 데이터 기반의 명확한 의사결정과 비즈니스 인사이트를 도출합니다.
 
 * **Domain Interest:** Data Engineering, Machine Learning, Healthcare AI, Spatial-Temporal Analysis
-* **Contact:** [본인이메일@gmail.com](mailto:본인이메일@gmail.com) | [LinkedIn](https://www.linkedin.com/in/본인링크드인아이디)
+* **Contact:** [본인이메일@gmail.com](mailto:yeomjh926@gmail.com)
 
 ---
 
