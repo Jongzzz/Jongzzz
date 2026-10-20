@@ -47,7 +47,7 @@
 - **Fairness & XAI:** SHAP 기반 예측 근거 시각화, 편향 제어(Reweighting 등)를 통한 해석 가능한 모델링
 
 **[Tools & Statistics]**
-- Git, GitHub, SAS, SPSS
+- SAS, SPSS
 
 ---
 
@@ -96,7 +96,6 @@
   * AI의료융합전공 주전공, 빅데이터 복수전공 (2021.02 - 현재)
   * **학점:** 4.24 / 4.5 (전공: 4.27 / 4.5)
 - **Licenses & Certifications:**
-  * **빅데이터분석기사** (실무 데이터 핸들링)
   * **SQLD** (데이터베이스 자격증, 2025.08)
   * **ADsP** (데이터분석 준전문가, 2025.02)
 
